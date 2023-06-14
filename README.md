@@ -12,3 +12,16 @@ The main component of this repository is the Arima_Sales.ipynb notebook. This no
 3. ARIMA Model: This section covers the implementation of the ARIMA model for sales forecasting. It includes the identification of model parameters (order of differencing, autoregressive and moving average terms), model fitting, and model evaluation.
 
 4. Forecasting: Using the trained ARIMA model, this section demonstrates how to make future sales predictions. It includes generating forecasts for a specified time period and visualizing the predicted sales values.
+
+# Usage
+To use the ARIMA sales forecasting model, follow these steps:
+
+1. Clone this repository to your local machine or download the notebook (Arima_Sales.ipynb) directly.
+
+2. Open the notebook using Jupyter Notebook or any compatible Python development environment.
+
+3. Ensure that you have the necessary dependencies installed as mentioned in the "Requirements" section.
+
+4. Execute the cells in the notebook sequentially to load the data, preprocess it, analyze it, and train the ARIMA model.
+
+5. Once the model is trained, you can make sales predictions by running the forecast cells in the notebook.
